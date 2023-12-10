@@ -1,17 +1,17 @@
 //for the given json iterate over all for loops (for for in for of foreach)
-/*let jsonvalue =
+let jsonvalue =
 {
     name:"nandhini",
     age:29
 }
 let value =JSON.stringify(jsonvalue);
 console.log(value);
-for(let i=0;i<value.length;i++)
+/*for(let i in JSON.stringify(jsonvalue))
 {
-    console.log(value[i]);
+    console.log(jsonvalue[i]);
 }
-*/
 
+*?
 // for the 
 /*let jsonvalue =
 {
@@ -29,7 +29,7 @@ for(let key in jsonvalue)
 
 //create your own resume data in json format
 
-let resume={
+/*let resume={
     name:"Nandhini",
     age:29,
     email_id:"nandhiniponvelnt@gmail.com",
@@ -48,3 +48,4 @@ let resume={
 
 }
 console.log(resume);
+*/
